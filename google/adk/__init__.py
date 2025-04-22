@@ -1,0 +1,3 @@
+"""
+Mock Google ADK package.
+""" 
